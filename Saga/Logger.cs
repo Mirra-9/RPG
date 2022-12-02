@@ -4,7 +4,7 @@ namespace CourseApp
 {
     public static class Logger
     {
-        public static void LogText(string message) // просто выводит текст, который ему передают
+        public static void LogText(string message)
         {
             Console.WriteLine(message);
         }
